@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: loggen
+  namespace: $NAMESPACE
+  labels:
+    app: loggen
+  annotations:
+    blacklane.wait.timeout: 1000s
+spec:
+  replicas: $REPLICAS
+  selector:
+    matchLabels:
+      app: loggen
+  template:
+    metadata:
+      labels:
+        app: loggen
+    spec:
+      dnsPolicy: Default
+      containers:
+      - name: loggen
+        image: 721041513556.dkr.ecr.eu-central-1.amazonaws.com/loggen:$IMAGE_TAG
+        envFrom:
+        - configMapRef:
+            name: loggen

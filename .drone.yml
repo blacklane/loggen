@@ -1,0 +1,49 @@
+pipeline:
+  pull:
+    image: yspro/drone-plugin-ecr-fetcher
+    pull: true
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    images:
+      - 721041513556.dkr.ecr.eu-central-1.amazonaws.com/kubernetes-deployment:v4
+      - 721041513556.dkr.ecr.eu-central-1.amazonaws.com/drone-plugin-ecr-tagger-pusher:v3
+
+  registry:
+    image: 721041513556.dkr.ecr.eu-central-1.amazonaws.com/kubernetes-deployment:v4
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    commands:
+      - blops registry init
+
+  build:
+    image: 721041513556.dkr.ecr.eu-central-1.amazonaws.com/drone-plugin-ecr-tagger-pusher:v3
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    commands:
+      - $(aws ecr get-login --no-include-email --region eu-central-1)
+      - docker build -t loggen:${DRONE_COMMIT_SHA} .
+    when:
+      event: push
+      branch: master
+
+  push:
+    image: 721041513556.dkr.ecr.eu-central-1.amazonaws.com/drone-plugin-ecr-tagger-pusher:v3
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    ecr_repo_uri: 721041513556.dkr.ecr.eu-central-1.amazonaws.com/loggen
+    image_name: loggen:${DRONE_COMMIT_SHA}
+    when:
+      event: push
+      branch: master
+
+  deploy_production:
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    image: 721041513556.dkr.ecr.eu-central-1.amazonaws.com/kubernetes-deployment:v4
+    commands:
+      - blops deploy production
+    when:
+      event: push
+      branch: master
+
+branches: [ master ]

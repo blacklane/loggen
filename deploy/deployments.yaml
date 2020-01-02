@@ -1,0 +1,6 @@
+production:
+  cluster: production
+  namespace: loggen
+  steps:
+    - config.yaml
+    - loggen.yaml

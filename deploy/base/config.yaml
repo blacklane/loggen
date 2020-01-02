@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: loggen
+  namespace: $NAMESPACE
+  labels:
+    app: loggen
+data:
+  LOG_INTERVAL_IN_MS: "$LOG_INTERVAL_IN_MS"
+  ERROR_RATE: "$ERROR_RATE"
