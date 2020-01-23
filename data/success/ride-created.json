@@ -7,9 +7,7 @@
         "dropoff": "Remsen Avenue 973, Zarephath, USA",
         "price": 83.81
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -19,9 +17,7 @@
         "dropoff": "Lester Court 911, Grill, USA",
         "price": 99.93
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -31,9 +27,7 @@
         "dropoff": "Elliott Place 806, Orason, USA",
         "price": 64.12
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -43,9 +37,7 @@
         "dropoff": "Franklin Street 756, Hachita, USA",
         "price": 91.85
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -55,9 +47,7 @@
         "dropoff": "Conselyea Street 417, Byrnedale, USA",
         "price": 66.23
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -67,9 +57,7 @@
         "dropoff": "Noble Street 613, Barrelville, USA",
         "price": 23.42
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -79,9 +67,7 @@
         "dropoff": "Lorimer Street 777, Tonopah, USA",
         "price": 76.89
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -91,9 +77,7 @@
         "dropoff": "Mill Road 828, Goochland, USA",
         "price": 19.39
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -103,9 +87,7 @@
         "dropoff": "Bragg Street 702, Strykersville, USA",
         "price": 92.81
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -115,9 +97,7 @@
         "dropoff": "Meserole Avenue 266, Blanford, USA",
         "price": 41.78
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -127,9 +107,7 @@
         "dropoff": "Forrest Street 378, Hatteras, USA",
         "price": 50.63
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -139,9 +117,7 @@
         "dropoff": "Doscher Street 494, Bodega, USA",
         "price": 31.58
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -151,9 +127,7 @@
         "dropoff": "Gelston Avenue 705, Dunbar, USA",
         "price": 94.54
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -163,9 +137,7 @@
         "dropoff": "Clarendon Road 36, Grantville, USA",
         "price": 62.2
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -175,9 +147,7 @@
         "dropoff": "Wythe Avenue 110, Catherine, USA",
         "price": 23.59
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -187,9 +157,7 @@
         "dropoff": "Claver Place 958, Gorham, USA",
         "price": 31.39
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -199,9 +167,7 @@
         "dropoff": "Hazel Court 81, Newcastle, USA",
         "price": 34.22
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -211,9 +177,7 @@
         "dropoff": "Apollo Street 511, Nogal, USA",
         "price": 66.63
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -223,9 +187,7 @@
         "dropoff": "Oxford Walk 656, Drytown, USA",
         "price": 59.14
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -235,9 +197,7 @@
         "dropoff": "Fenimore Street 145, Canoochee, USA",
         "price": 82.33
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -247,9 +207,7 @@
         "dropoff": "Hall Street 931, Kimmell, USA",
         "price": 85.03
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -259,9 +217,7 @@
         "dropoff": "Ebony Court 679, Turpin, USA",
         "price": 69.14
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -271,9 +227,7 @@
         "dropoff": "Guernsey Street 987, Bendon, USA",
         "price": 95.58
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -283,9 +237,7 @@
         "dropoff": "Norwood Avenue 275, Bordelonville, USA",
         "price": 57.47
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -295,9 +247,7 @@
         "dropoff": "Scott Avenue 984, Libertytown, USA",
         "price": 47.16
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -307,9 +257,7 @@
         "dropoff": "Nassau Street 54, Jackpot, USA",
         "price": 41.48
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -319,9 +267,7 @@
         "dropoff": "Aster Court 634, Concho, USA",
         "price": 97.92
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -331,9 +277,7 @@
         "dropoff": "Visitation Place 546, Topanga, USA",
         "price": 77.51
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -343,9 +287,7 @@
         "dropoff": "Oceanic Avenue 316, Skyland, USA",
         "price": 15.63
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -355,9 +297,7 @@
         "dropoff": "Morton Street 512, Rockhill, USA",
         "price": 79.09
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -367,9 +307,7 @@
         "dropoff": "Gunnison Court 85, Smock, USA",
         "price": 68.82
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -379,9 +317,7 @@
         "dropoff": "Bartlett Street 607, Freetown, USA",
         "price": 49.62
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -391,9 +327,7 @@
         "dropoff": "McDonald Avenue 502, Drummond, USA",
         "price": 68.48
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -403,9 +337,7 @@
         "dropoff": "Virginia Place 980, Brandywine, USA",
         "price": 61.36
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -415,9 +347,7 @@
         "dropoff": "Kimball Street 890, Franklin, USA",
         "price": 82.27
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -427,9 +357,7 @@
         "dropoff": "Reed Street 450, Knowlton, USA",
         "price": 67.05
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -439,9 +367,7 @@
         "dropoff": "Sharon Street 643, Finderne, USA",
         "price": 22.99
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -451,9 +377,7 @@
         "dropoff": "Jerome Avenue 518, Cloverdale, USA",
         "price": 61.04
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -463,9 +387,7 @@
         "dropoff": "Dare Court 355, Volta, USA",
         "price": 30.19
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -475,9 +397,7 @@
         "dropoff": "Moffat Street 673, Gambrills, USA",
         "price": 99.49
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -487,9 +407,7 @@
         "dropoff": "Karweg Place 843, Fontanelle, USA",
         "price": 50.85
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -499,9 +417,7 @@
         "dropoff": "Pineapple Street 249, Machias, USA",
         "price": 89.21
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -511,9 +427,7 @@
         "dropoff": "Commerce Street 113, Golconda, USA",
         "price": 85.54
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -523,9 +437,7 @@
         "dropoff": "Martense Street 556, Bangor, USA",
         "price": 39.89
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -535,9 +447,7 @@
         "dropoff": "Mill Street 30, Callaghan, USA",
         "price": 77.9
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -547,9 +457,7 @@
         "dropoff": "Monitor Street 697, Bluetown, USA",
         "price": 59.34
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -559,9 +467,7 @@
         "dropoff": "Wortman Avenue 446, Bynum, USA",
         "price": 48.95
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -571,9 +477,7 @@
         "dropoff": "Highland Boulevard 490, Wanship, USA",
         "price": 27.54
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -583,9 +487,7 @@
         "dropoff": "Colby Court 784, Emison, USA",
         "price": 20.94
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -595,9 +497,7 @@
         "dropoff": "Highlawn Avenue 159, Retsof, USA",
         "price": 87.43
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -607,9 +507,7 @@
         "dropoff": "Fleet Place 819, Barstow, USA",
         "price": 58.16
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -619,9 +517,7 @@
         "dropoff": "Murdock Court 477, Newry, USA",
         "price": 57.92
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -631,9 +527,7 @@
         "dropoff": "Danforth Street 131, Geyserville, USA",
         "price": 46.94
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -643,9 +537,7 @@
         "dropoff": "Sutter Avenue 931, Corinne, USA",
         "price": 87.98
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -655,9 +547,7 @@
         "dropoff": "Olive Street 380, Waverly, USA",
         "price": 96.62
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -667,9 +557,7 @@
         "dropoff": "Crawford Avenue 515, Bend, USA",
         "price": 62.72
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -679,9 +567,7 @@
         "dropoff": "Trucklemans Lane 554, Nord, USA",
         "price": 74.22
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -691,9 +577,7 @@
         "dropoff": "Lincoln Avenue 652, Hinsdale, USA",
         "price": 18.19
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -703,9 +587,7 @@
         "dropoff": "Beacon Court 617, Kipp, USA",
         "price": 16.55
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -715,9 +597,7 @@
         "dropoff": "Legion Street 382, Edenburg, USA",
         "price": 87.95
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -727,9 +607,7 @@
         "dropoff": "Pitkin Avenue 744, Edgar, USA",
         "price": 79.73
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -739,9 +617,7 @@
         "dropoff": "Coles Street 217, Kerby, USA",
         "price": 91.74
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -751,9 +627,7 @@
         "dropoff": "Regent Place 514, Rowe, USA",
         "price": 66.2
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -763,9 +637,7 @@
         "dropoff": "Abbey Court 588, Convent, USA",
         "price": 63.42
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -775,9 +647,7 @@
         "dropoff": "Nova Court 441, Farmers, USA",
         "price": 65.11
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -787,9 +657,7 @@
         "dropoff": "Boulevard Court 324, Bancroft, USA",
         "price": 35.52
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -799,9 +667,7 @@
         "dropoff": "Dearborn Court 941, Orovada, USA",
         "price": 72.17
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -811,9 +677,7 @@
         "dropoff": "McClancy Place 272, Castleton, USA",
         "price": 75.11
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -823,9 +687,7 @@
         "dropoff": "School Lane 633, Gardiner, USA",
         "price": 55.81
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -835,9 +697,7 @@
         "dropoff": "Amboy Street 47, Chapin, USA",
         "price": 71.5
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -847,9 +707,7 @@
         "dropoff": "Veterans Avenue 445, Teasdale, USA",
         "price": 64.36
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -859,9 +717,7 @@
         "dropoff": "Opal Court 427, Vienna, USA",
         "price": 16.82
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -871,9 +727,7 @@
         "dropoff": "Portland Avenue 56, Kingstowne, USA",
         "price": 35.58
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -883,9 +737,7 @@
         "dropoff": "Meadow Street 93, Limestone, USA",
         "price": 21.42
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -895,9 +747,7 @@
         "dropoff": "Gaylord Drive 313, Deltaville, USA",
         "price": 92.45
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -907,9 +757,7 @@
         "dropoff": "Nichols Avenue 77, Chesapeake, USA",
         "price": 84.81
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -919,9 +767,7 @@
         "dropoff": "Prescott Place 706, Templeton, USA",
         "price": 86.19
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -931,9 +777,7 @@
         "dropoff": "Provost Street 783, Valmy, USA",
         "price": 73.25
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -943,9 +787,7 @@
         "dropoff": "Underhill Avenue 545, Nile, USA",
         "price": 83.11
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -955,9 +797,7 @@
         "dropoff": "Roebling Street 875, Iberia, USA",
         "price": 51.11
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -967,9 +807,7 @@
         "dropoff": "Amherst Street 333, Saticoy, USA",
         "price": 95.41
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -979,9 +817,7 @@
         "dropoff": "Rogers Avenue 19, Muir, USA",
         "price": 60.71
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -991,9 +827,7 @@
         "dropoff": "Tehama Street 96, Detroit, USA",
         "price": 12.3
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1003,9 +837,7 @@
         "dropoff": "Broome Street 935, Summertown, USA",
         "price": 80.07
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1015,9 +847,7 @@
         "dropoff": "Dorset Street 887, Watchtower, USA",
         "price": 98.05
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1027,9 +857,7 @@
         "dropoff": "Amity Street 493, Rose, USA",
         "price": 30.06
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1039,9 +867,7 @@
         "dropoff": "Clarkson Avenue 750, Kieler, USA",
         "price": 69.39
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1051,9 +877,7 @@
         "dropoff": "Hunts Lane 871, Riner, USA",
         "price": 34.57
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1063,9 +887,7 @@
         "dropoff": "Livingston Street 440, Spokane, USA",
         "price": 39.03
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1075,9 +897,7 @@
         "dropoff": "Judge Street 99, Itmann, USA",
         "price": 90.33
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1087,9 +907,7 @@
         "dropoff": "Jefferson Avenue 381, Elwood, USA",
         "price": 44.32
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1099,9 +917,7 @@
         "dropoff": "Prospect Avenue 342, Albany, USA",
         "price": 59.25
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1111,9 +927,7 @@
         "dropoff": "Ocean Court 932, Allison, USA",
         "price": 73.13
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1123,9 +937,7 @@
         "dropoff": "Banner Avenue 879, Ruckersville, USA",
         "price": 30.19
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1135,9 +947,7 @@
         "dropoff": "Prospect Street 889, Darlington, USA",
         "price": 48.94
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1147,9 +957,7 @@
         "dropoff": "Dumont Avenue 105, Statenville, USA",
         "price": 71.95
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1159,9 +967,7 @@
         "dropoff": "Belmont Avenue 688, Albrightsville, USA",
         "price": 53.31
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1171,9 +977,7 @@
         "dropoff": "Gotham Avenue 336, Tecolotito, USA",
         "price": 87.81
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1183,9 +987,7 @@
         "dropoff": "Williams Place 310, Grazierville, USA",
         "price": 36.48
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1195,9 +997,7 @@
         "dropoff": "Crooke Avenue 369, Ladera, USA",
         "price": 81.11
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1207,9 +1007,7 @@
         "dropoff": "Drew Street 802, Denio, USA",
         "price": 84.51
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1219,9 +1017,7 @@
         "dropoff": "Minna Street 610, Westerville, USA",
         "price": 14.07
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1231,9 +1027,7 @@
         "dropoff": "Dunham Place 91, Dennard, USA",
         "price": 35.94
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1243,9 +1037,7 @@
         "dropoff": "Dahl Court 868, Diaperville, USA",
         "price": 12.54
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1255,9 +1047,7 @@
         "dropoff": "Chester Court 981, Orin, USA",
         "price": 38.73
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1267,9 +1057,7 @@
         "dropoff": "Georgia Avenue 799, Enoree, USA",
         "price": 92.57
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1279,9 +1067,7 @@
         "dropoff": "Horace Court 1000, Weogufka, USA",
         "price": 23.51
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1291,9 +1077,7 @@
         "dropoff": "Linden Street 628, Sharon, USA",
         "price": 13.88
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1303,9 +1087,7 @@
         "dropoff": "Village Court 392, Thermal, USA",
         "price": 88.62
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1315,9 +1097,7 @@
         "dropoff": "Hubbard Place 606, Motley, USA",
         "price": 71.89
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1327,9 +1107,7 @@
         "dropoff": "Ovington Avenue 353, Harviell, USA",
         "price": 79.23
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1339,9 +1117,7 @@
         "dropoff": "Chase Court 159, Wiscon, USA",
         "price": 56.69
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1351,9 +1127,7 @@
         "dropoff": "Myrtle Avenue 886, Beyerville, USA",
         "price": 41.51
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1363,9 +1137,7 @@
         "dropoff": "Vandam Street 500, Monument, USA",
         "price": 33.86
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1375,9 +1147,7 @@
         "dropoff": "Rose Street 836, Wadsworth, USA",
         "price": 15.13
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1387,9 +1157,7 @@
         "dropoff": "Kensington Street 460, Kylertown, USA",
         "price": 20.15
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1399,9 +1167,7 @@
         "dropoff": "Forest Place 206, Bawcomville, USA",
         "price": 71.74
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1411,9 +1177,7 @@
         "dropoff": "Pershing Loop 383, Rutherford, USA",
         "price": 71.71
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1423,9 +1187,7 @@
         "dropoff": "Tennis Court 780, Ballico, USA",
         "price": 36.16
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1435,9 +1197,7 @@
         "dropoff": "Elm Place 931, Hollymead, USA",
         "price": 57.88
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1447,9 +1207,7 @@
         "dropoff": "Atlantic Avenue 59, Beechmont, USA",
         "price": 84.33
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1459,9 +1217,7 @@
         "dropoff": "Meserole Street 420, Grapeview, USA",
         "price": 45.57
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1471,9 +1227,7 @@
         "dropoff": "Vanderveer Street 644, Chalfant, USA",
         "price": 95.68
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1483,9 +1237,7 @@
         "dropoff": "Grattan Street 939, Vaughn, USA",
         "price": 68.6
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1495,9 +1247,7 @@
         "dropoff": "Quincy Street 790, Wildwood, USA",
         "price": 66.49
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1507,9 +1257,7 @@
         "dropoff": "Herkimer Street 977, Twilight, USA",
         "price": 58.55
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1519,9 +1267,7 @@
         "dropoff": "Metropolitan Avenue 412, Rote, USA",
         "price": 72.25
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1531,9 +1277,7 @@
         "dropoff": "Ryder Street 250, Leyner, USA",
         "price": 68.93
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1543,9 +1287,7 @@
         "dropoff": "Wyona Street 984, Canterwood, USA",
         "price": 76.08
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1555,9 +1297,7 @@
         "dropoff": "Dictum Court 518, Takilma, USA",
         "price": 91.52
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1567,9 +1307,7 @@
         "dropoff": "Sapphire Street 683, Brownlee, USA",
         "price": 47.81
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1579,9 +1317,7 @@
         "dropoff": "Lombardy Street 249, Odessa, USA",
         "price": 89.88
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1591,9 +1327,7 @@
         "dropoff": "Congress Street 239, Taft, USA",
         "price": 67.54
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1603,9 +1337,7 @@
         "dropoff": "Vandalia Avenue 222, Blairstown, USA",
         "price": 16.66
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1615,9 +1347,7 @@
         "dropoff": "Willow Street 822, Wilsonia, USA",
         "price": 77.2
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1627,9 +1357,7 @@
         "dropoff": "Moore Place 207, Cascades, USA",
         "price": 58.12
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1639,9 +1367,7 @@
         "dropoff": "Benson Avenue 37, Allentown, USA",
         "price": 93.19
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1651,9 +1377,7 @@
         "dropoff": "Boerum Place 189, Eggertsville, USA",
         "price": 46.68
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1663,9 +1387,7 @@
         "dropoff": "Fayette Street 675, Kansas, USA",
         "price": 94.38
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1675,9 +1397,7 @@
         "dropoff": "Gates Avenue 89, Robinson, USA",
         "price": 90.09
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1687,9 +1407,7 @@
         "dropoff": "Homecrest Court 910, Brethren, USA",
         "price": 93.46
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1699,9 +1417,7 @@
         "dropoff": "Kaufman Place 544, Harrison, USA",
         "price": 92.07
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1711,9 +1427,7 @@
         "dropoff": "Lancaster Avenue 544, Norwood, USA",
         "price": 38.32
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1723,9 +1437,7 @@
         "dropoff": "Lloyd Court 16, Floris, USA",
         "price": 14.88
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1735,9 +1447,7 @@
         "dropoff": "Arion Place 408, Rossmore, USA",
         "price": 73.18
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1747,9 +1457,7 @@
         "dropoff": "Duryea Place 511, Islandia, USA",
         "price": 23.83
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1759,9 +1467,7 @@
         "dropoff": "Haring Street 57, Crisman, USA",
         "price": 60.25
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1771,9 +1477,7 @@
         "dropoff": "Freeman Street 986, Fairview, USA",
         "price": 27.96
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1783,9 +1487,7 @@
         "dropoff": "Walker Court 65, Caln, USA",
         "price": 61.27
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1795,9 +1497,7 @@
         "dropoff": "Heyward Street 838, Snyderville, USA",
         "price": 38.85
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1807,9 +1507,7 @@
         "dropoff": "Evans Street 830, Marienthal, USA",
         "price": 88.5
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1819,9 +1517,7 @@
         "dropoff": "Douglass Street 218, Saddlebrooke, USA",
         "price": 11.76
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1831,9 +1527,7 @@
         "dropoff": "Lafayette Walk 551, Tioga, USA",
         "price": 72.92
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1843,9 +1537,7 @@
         "dropoff": "Belvidere Street 635, Marbury, USA",
         "price": 62.09
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1855,9 +1547,7 @@
         "dropoff": "Ford Street 974, Katonah, USA",
         "price": 66.12
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1867,9 +1557,7 @@
         "dropoff": "Glendale Court 746, Forbestown, USA",
         "price": 34.08
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1879,9 +1567,7 @@
         "dropoff": "Roosevelt Place 331, Enetai, USA",
         "price": 85.76
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1891,9 +1577,7 @@
         "dropoff": "Nixon Court 521, Inkerman, USA",
         "price": 61.16
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1903,9 +1587,7 @@
         "dropoff": "Calder Place 541, Clinton, USA",
         "price": 79.62
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1915,9 +1597,7 @@
         "dropoff": "Plymouth Street 144, Avalon, USA",
         "price": 32.95
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1927,9 +1607,7 @@
         "dropoff": "Broadway  157, Crenshaw, USA",
         "price": 10.62
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1939,9 +1617,7 @@
         "dropoff": "Bokee Court 316, Frierson, USA",
         "price": 86
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1951,9 +1627,7 @@
         "dropoff": "Bethel Loop 181, Brady, USA",
         "price": 62.65
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1963,9 +1637,7 @@
         "dropoff": "Hope Street 803, National, USA",
         "price": 58.83
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1975,9 +1647,7 @@
         "dropoff": "Hemlock Street 747, Sanders, USA",
         "price": 92.2
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1987,9 +1657,7 @@
         "dropoff": "Montague Street 612, Wakarusa, USA",
         "price": 68.46
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -1999,9 +1667,7 @@
         "dropoff": "Eckford Street 821, Cumberland, USA",
         "price": 34.3
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2011,9 +1677,7 @@
         "dropoff": "Lefferts Avenue 39, Gilmore, USA",
         "price": 25.26
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2023,9 +1687,7 @@
         "dropoff": "Flatlands Avenue 199, Nash, USA",
         "price": 78.38
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2035,9 +1697,7 @@
         "dropoff": "Union Avenue 294, Centerville, USA",
         "price": 87.14
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2047,9 +1707,7 @@
         "dropoff": "Herbert Street 245, Sisquoc, USA",
         "price": 12.4
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2059,9 +1717,7 @@
         "dropoff": "Louisiana Avenue 140, Rosine, USA",
         "price": 48.09
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2071,9 +1727,7 @@
         "dropoff": "Tech Place 723, Blackgum, USA",
         "price": 26.11
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2083,9 +1737,7 @@
         "dropoff": "King Street 492, Tyro, USA",
         "price": 62.57
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2095,9 +1747,7 @@
         "dropoff": "Debevoise Avenue 270, Conway, USA",
         "price": 72.07
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2107,9 +1757,7 @@
         "dropoff": "Newel Street 286, Fidelis, USA",
         "price": 32.73
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2119,9 +1767,7 @@
         "dropoff": "Village Road 874, Enlow, USA",
         "price": 15.83
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2131,9 +1777,7 @@
         "dropoff": "Albany Avenue 441, Biddle, USA",
         "price": 73.46
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2143,9 +1787,7 @@
         "dropoff": "Hastings Street 909, Coral, USA",
         "price": 80.8
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2155,9 +1797,7 @@
         "dropoff": "Times Placez 70, Thatcher, USA",
         "price": 43.93
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2167,9 +1807,7 @@
         "dropoff": "Wilson Street 723, Brogan, USA",
         "price": 25.12
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2179,9 +1817,7 @@
         "dropoff": "Coventry Road 492, Valle, USA",
         "price": 31.54
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2191,9 +1827,7 @@
         "dropoff": "Losee Terrace 249, Gardners, USA",
         "price": 21.19
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2203,9 +1837,7 @@
         "dropoff": "Strauss Street 928, Bowden, USA",
         "price": 57.22
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2215,9 +1847,7 @@
         "dropoff": "Chapel Street 309, Hiseville, USA",
         "price": 65.37
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2227,9 +1857,7 @@
         "dropoff": "Putnam Avenue 460, Sparkill, USA",
         "price": 34.6
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2239,9 +1867,7 @@
         "dropoff": "Pierrepont Place 2, Curtice, USA",
         "price": 90.37
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2251,9 +1877,7 @@
         "dropoff": "Dakota Place 973, Wakulla, USA",
         "price": 69.63
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2263,9 +1887,7 @@
         "dropoff": "Hausman Street 84, Waterford, USA",
         "price": 78.66
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2275,9 +1897,7 @@
         "dropoff": "Debevoise Street 400, Beaulieu, USA",
         "price": 78.01
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2287,9 +1907,7 @@
         "dropoff": "Ashland Place 615, Boykin, USA",
         "price": 49.96
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2299,9 +1917,7 @@
         "dropoff": "Dewitt Avenue 386, Nelson, USA",
         "price": 88.64
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2311,9 +1927,7 @@
         "dropoff": "Girard Street 125, Northchase, USA",
         "price": 30.09
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2323,9 +1937,7 @@
         "dropoff": "Gem Street 808, Carrizo, USA",
         "price": 27.19
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2335,9 +1947,7 @@
         "dropoff": "Bush Street 672, Rushford, USA",
         "price": 69
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2347,9 +1957,7 @@
         "dropoff": "Dobbin Street 326, Urbana, USA",
         "price": 50.71
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2359,9 +1967,7 @@
         "dropoff": "Malta Street 75, Gratton, USA",
         "price": 18.07
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2371,9 +1977,7 @@
         "dropoff": "Bulwer Place 393, Dawn, USA",
         "price": 23.52
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2383,9 +1987,7 @@
         "dropoff": "Keen Court 578, Coloma, USA",
         "price": 60.4
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2395,9 +1997,7 @@
         "dropoff": "Tiffany Place 78, Loma, USA",
         "price": 15.48
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2407,9 +2007,7 @@
         "dropoff": "Etna Street 26, Waterloo, USA",
         "price": 10.25
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2419,9 +2017,7 @@
         "dropoff": "India Street 394, Nutrioso, USA",
         "price": 45.54
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2431,9 +2027,7 @@
         "dropoff": "Hart Place 371, Sardis, USA",
         "price": 90.64
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2443,9 +2037,7 @@
         "dropoff": "Winthrop Street 94, Nanafalia, USA",
         "price": 92.51
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2455,9 +2047,7 @@
         "dropoff": "Bowne Street 975, Ferney, USA",
         "price": 30.22
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2467,9 +2057,7 @@
         "dropoff": "Milton Street 162, Sunriver, USA",
         "price": 89.29
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2479,9 +2067,7 @@
         "dropoff": "Hinckley Place 865, Riviera, USA",
         "price": 29.8
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2491,9 +2077,7 @@
         "dropoff": "Croton Loop 371, Ogema, USA",
         "price": 66.92
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2503,9 +2087,7 @@
         "dropoff": "Holt Court 200, Omar, USA",
         "price": 12.2
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2515,9 +2097,7 @@
         "dropoff": "Dahill Road 839, Highland, USA",
         "price": 10.51
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2527,9 +2107,7 @@
         "dropoff": "Ellery Street 252, Maplewood, USA",
         "price": 45.17
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2539,9 +2117,7 @@
         "dropoff": "Seagate Terrace 763, Graniteville, USA",
         "price": 59.14
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2551,9 +2127,7 @@
         "dropoff": "Hanson Place 298, Sims, USA",
         "price": 67.08
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2563,9 +2137,7 @@
         "dropoff": "Crystal Street 587, Gloucester, USA",
         "price": 21.49
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2575,9 +2147,7 @@
         "dropoff": "Clifford Place 627, Zeba, USA",
         "price": 39.2
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2587,9 +2157,7 @@
         "dropoff": "Schenck Place 734, Whitehaven, USA",
         "price": 32.61
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2599,9 +2167,7 @@
         "dropoff": "Bills Place 34, Juntura, USA",
         "price": 32.39
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2611,9 +2177,7 @@
         "dropoff": "Brigham Street 540, Belfair, USA",
         "price": 62.67
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2623,9 +2187,7 @@
         "dropoff": "Ludlam Place 493, Jacksonburg, USA",
         "price": 53.31
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2635,9 +2197,7 @@
         "dropoff": "Greenwood Avenue 407, Connerton, USA",
         "price": 96.3
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2647,9 +2207,7 @@
         "dropoff": "Frank Court 160, Sperryville, USA",
         "price": 79.23
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2659,9 +2217,7 @@
         "dropoff": "Barbey Street 978, Stewartville, USA",
         "price": 85.7
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2671,9 +2227,7 @@
         "dropoff": "Grand Street 784, Groton, USA",
         "price": 37.62
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2683,9 +2237,7 @@
         "dropoff": "Richmond Street 535, Gracey, USA",
         "price": 22.61
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2695,9 +2247,7 @@
         "dropoff": "Beach Place 988, Vandiver, USA",
         "price": 81.17
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2707,9 +2257,7 @@
         "dropoff": "Kiely Place 783, Thomasville, USA",
         "price": 94.53
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2719,9 +2267,7 @@
         "dropoff": "Lee Avenue 828, Rosewood, USA",
         "price": 57.82
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2731,9 +2277,7 @@
         "dropoff": "Ditmars Street 145, Mulberry, USA",
         "price": 68.32
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2743,9 +2287,7 @@
         "dropoff": "Powers Street 511, Foxworth, USA",
         "price": 18.6
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2755,9 +2297,7 @@
         "dropoff": "Stuyvesant Avenue 835, Talpa, USA",
         "price": 45.11
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2767,9 +2307,7 @@
         "dropoff": "Frost Street 723, Rockingham, USA",
         "price": 91.31
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2779,9 +2317,7 @@
         "dropoff": "Rockaway Avenue 78, Day, USA",
         "price": 52.1
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2791,9 +2327,7 @@
         "dropoff": "Ridge Boulevard 763, Ellerslie, USA",
         "price": 56.5
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2803,9 +2337,7 @@
         "dropoff": "Dank Court 93, Hasty, USA",
         "price": 71.06
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2815,9 +2347,7 @@
         "dropoff": "Campus Place 783, Tryon, USA",
         "price": 18.69
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2827,9 +2357,7 @@
         "dropoff": "Elm Avenue 527, Southmont, USA",
         "price": 93.13
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2839,9 +2367,7 @@
         "dropoff": "Balfour Place 130, Williams, USA",
         "price": 10.92
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2851,9 +2377,7 @@
         "dropoff": "Fay Court 762, Vicksburg, USA",
         "price": 49.19
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2863,9 +2387,7 @@
         "dropoff": "Howard Place 960, Chloride, USA",
         "price": 80.5
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2875,9 +2397,7 @@
         "dropoff": "Whitwell Place 296, Otranto, USA",
         "price": 98.11
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2887,9 +2407,7 @@
         "dropoff": "Brightwater Court 973, Bainbridge, USA",
         "price": 98.63
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2899,9 +2417,7 @@
         "dropoff": "Ryder Avenue 608, Heil, USA",
         "price": 18.4
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2911,9 +2427,7 @@
         "dropoff": "Montgomery Place 135, Indio, USA",
         "price": 75.44
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2923,9 +2437,7 @@
         "dropoff": "Kensington Walk 683, Yorklyn, USA",
         "price": 36.58
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2935,9 +2447,7 @@
         "dropoff": "Bergen Court 748, Sandston, USA",
         "price": 19.91
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2947,9 +2457,7 @@
         "dropoff": "Beayer Place 70, Sunbury, USA",
         "price": 15.52
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2959,9 +2467,7 @@
         "dropoff": "Williams Court 9, Konterra, USA",
         "price": 40.65
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2971,9 +2477,7 @@
         "dropoff": "Doone Court 625, Wawona, USA",
         "price": 62.19
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2983,9 +2487,7 @@
         "dropoff": "Hudson Avenue 335, Rivereno, USA",
         "price": 18.25
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -2995,9 +2497,7 @@
         "dropoff": "Church Lane 70, Longbranch, USA",
         "price": 18.65
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3007,9 +2507,7 @@
         "dropoff": "Lawrence Avenue 499, Richville, USA",
         "price": 75.64
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3019,9 +2517,7 @@
         "dropoff": "Bliss Terrace 374, Coalmont, USA",
         "price": 51.52
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3031,9 +2527,7 @@
         "dropoff": "Lexington Avenue 551, Lafferty, USA",
         "price": 58.24
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3043,9 +2537,7 @@
         "dropoff": "Kings Place 62, Neibert, USA",
         "price": 15.49
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3055,9 +2547,7 @@
         "dropoff": "Harbor Lane 226, Brenton, USA",
         "price": 17.41
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3067,9 +2557,7 @@
         "dropoff": "Himrod Street 174, Woodlands, USA",
         "price": 26.25
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3079,9 +2567,7 @@
         "dropoff": "Wolf Place 589, Bartonsville, USA",
         "price": 75.33
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3091,9 +2577,7 @@
         "dropoff": "Royce Street 501, Stockdale, USA",
         "price": 32.08
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3103,9 +2587,7 @@
         "dropoff": "Vanderbilt Avenue 220, Hickory, USA",
         "price": 27.67
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3115,9 +2597,7 @@
         "dropoff": "Thomas Street 551, Cutter, USA",
         "price": 28.1
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3127,9 +2607,7 @@
         "dropoff": "Bancroft Place 280, Trail, USA",
         "price": 23.97
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3139,9 +2617,7 @@
         "dropoff": "Polhemus Place 310, Ahwahnee, USA",
         "price": 21.2
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3151,9 +2627,7 @@
         "dropoff": "Woodbine Street 585, Remington, USA",
         "price": 41.51
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3163,9 +2637,7 @@
         "dropoff": "River Street 201, Rehrersburg, USA",
         "price": 27.89
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3175,9 +2647,7 @@
         "dropoff": "Thames Street 700, Dorneyville, USA",
         "price": 21.54
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3187,9 +2657,7 @@
         "dropoff": "Elmwood Avenue 1000, Cavalero, USA",
         "price": 74.82
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3199,9 +2667,7 @@
         "dropoff": "Poplar Avenue 514, Wintersburg, USA",
         "price": 23.24
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3211,9 +2677,7 @@
         "dropoff": "Jamaica Avenue 400, Nescatunga, USA",
         "price": 31.02
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3223,9 +2687,7 @@
         "dropoff": "Glenwood Road 1, Bellfountain, USA",
         "price": 89.27
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3235,9 +2697,7 @@
         "dropoff": "Poly Place 978, Mappsville, USA",
         "price": 44.54
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3247,9 +2707,7 @@
         "dropoff": "Stryker Street 35, Malo, USA",
         "price": 47.09
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3259,9 +2717,7 @@
         "dropoff": "Kenmore Terrace 649, Lupton, USA",
         "price": 55.65
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3271,9 +2727,7 @@
         "dropoff": "Chestnut Avenue 104, Wescosville, USA",
         "price": 70.35
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3283,9 +2737,7 @@
         "dropoff": "Beekman Place 147, Bascom, USA",
         "price": 29.31
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3295,9 +2747,7 @@
         "dropoff": "Sandford Street 335, Maury, USA",
         "price": 10.17
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3307,9 +2757,7 @@
         "dropoff": "Bragg Court 515, Camptown, USA",
         "price": 73.64
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3319,9 +2767,7 @@
         "dropoff": "Troy Avenue 741, Warren, USA",
         "price": 75.33
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3331,9 +2777,7 @@
         "dropoff": "Henderson Walk 154, Martell, USA",
         "price": 62.94
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3343,9 +2787,7 @@
         "dropoff": "Kane Place 159, Eureka, USA",
         "price": 57.01
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3355,9 +2797,7 @@
         "dropoff": "Poplar Street 314, Boomer, USA",
         "price": 55.25
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3367,9 +2807,7 @@
         "dropoff": "Dennett Place 809, Mapletown, USA",
         "price": 32.22
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3379,9 +2817,7 @@
         "dropoff": "Heath Place 459, Barronett, USA",
         "price": 34.13
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3391,9 +2827,7 @@
         "dropoff": "Degraw Street 278, Kula, USA",
         "price": 75.88
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3403,9 +2837,7 @@
         "dropoff": "Schenectady Avenue 522, Bellamy, USA",
         "price": 25.55
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3415,9 +2847,7 @@
         "dropoff": "Newton Street 283, Lopezo, USA",
         "price": 24.5
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3427,9 +2857,7 @@
         "dropoff": "Locust Avenue 824, Campo, USA",
         "price": 90.62
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3439,9 +2867,7 @@
         "dropoff": "Boynton Place 312, Sattley, USA",
         "price": 42.67
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3451,9 +2877,7 @@
         "dropoff": "Taaffe Place 161, Coyote, USA",
         "price": 80.64
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3463,9 +2887,7 @@
         "dropoff": "Bushwick Avenue 649, Washington, USA",
         "price": 89.01
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3475,9 +2897,7 @@
         "dropoff": "Saratoga Avenue 739, Garnet, USA",
         "price": 47.18
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3487,9 +2907,7 @@
         "dropoff": "Evergreen Avenue 39, Ypsilanti, USA",
         "price": 41.86
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3499,9 +2917,7 @@
         "dropoff": "Story Court 293, Soudan, USA",
         "price": 77.1
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3511,9 +2927,7 @@
         "dropoff": "Jamison Lane 843, Whitmer, USA",
         "price": 92.34
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3523,9 +2937,7 @@
         "dropoff": "McKibbin Street 495, Moscow, USA",
         "price": 57.74
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3535,9 +2947,7 @@
         "dropoff": "Fillmore Avenue 806, Eagleville, USA",
         "price": 53.33
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3547,9 +2957,7 @@
         "dropoff": "Furman Street 771, Harold, USA",
         "price": 41.86
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3559,9 +2967,7 @@
         "dropoff": "Withers Street 1000, Grayhawk, USA",
         "price": 73.51
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3571,9 +2977,7 @@
         "dropoff": "Lloyd Street 762, Crown, USA",
         "price": 78.97
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3583,9 +2987,7 @@
         "dropoff": "Vermont Street 109, Hiwasse, USA",
         "price": 22.55
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3595,9 +2997,7 @@
         "dropoff": "Hutchinson Court 994, Brecon, USA",
         "price": 82.7
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3607,9 +3007,7 @@
         "dropoff": "Sutton Street 124, Belvoir, USA",
         "price": 67
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3619,9 +3017,7 @@
         "dropoff": "Woodrow Court 124, Linwood, USA",
         "price": 71.81
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3631,9 +3027,7 @@
         "dropoff": "Stoddard Place 372, Manchester, USA",
         "price": 72.39
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3643,9 +3037,7 @@
         "dropoff": "Columbus Place 581, Finzel, USA",
         "price": 73.33
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3655,9 +3047,7 @@
         "dropoff": "Norman Avenue 580, Cornfields, USA",
         "price": 68.86
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3667,9 +3057,7 @@
         "dropoff": "Hicks Street 310, Dunlo, USA",
         "price": 47.86
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3679,9 +3067,7 @@
         "dropoff": "Beaver Street 31, Cucumber, USA",
         "price": 74.37
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3691,9 +3077,7 @@
         "dropoff": "Fleet Street 119, Fostoria, USA",
         "price": 77.6
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3703,9 +3087,7 @@
         "dropoff": "Milford Street 930, Kaka, USA",
         "price": 47.89
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3715,9 +3097,7 @@
         "dropoff": "Jackson Court 787, Evergreen, USA",
         "price": 35.64
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3727,9 +3107,7 @@
         "dropoff": "Fillmore Place 838, Garfield, USA",
         "price": 29.02
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3739,9 +3117,7 @@
         "dropoff": "Canarsie Road 163, Cherokee, USA",
         "price": 22.81
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3751,9 +3127,7 @@
         "dropoff": "Laurel Avenue 881, Summerfield, USA",
         "price": 45.7
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3763,9 +3137,7 @@
         "dropoff": "Knickerbocker Avenue 390, Blodgett, USA",
         "price": 29.44
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3775,9 +3147,7 @@
         "dropoff": "Dorchester Road 521, Tyhee, USA",
         "price": 74.3
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3787,9 +3157,7 @@
         "dropoff": "Newkirk Avenue 196, Marysville, USA",
         "price": 15.05
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3799,9 +3167,7 @@
         "dropoff": "Pioneer Street 930, Glenbrook, USA",
         "price": 62.93
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3811,9 +3177,7 @@
         "dropoff": "Llama Court 587, Balm, USA",
         "price": 31.13
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3823,9 +3187,7 @@
         "dropoff": "Roder Avenue 232, Clara, USA",
         "price": 31.09
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3835,9 +3197,7 @@
         "dropoff": "Seagate Avenue 184, Frank, USA",
         "price": 66.05
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3847,9 +3207,7 @@
         "dropoff": "Guider Avenue 957, Cassel, USA",
         "price": 97.55
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3859,9 +3217,7 @@
         "dropoff": "Varick Avenue 230, Chestnut, USA",
         "price": 33.42
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3871,9 +3227,7 @@
         "dropoff": "Howard Alley 662, Brantleyville, USA",
         "price": 81.24
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3883,9 +3237,7 @@
         "dropoff": "Wilson Avenue 597, Hollins, USA",
         "price": 47.43
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3895,9 +3247,7 @@
         "dropoff": "Ralph Avenue 741, Trexlertown, USA",
         "price": 37.75
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3907,9 +3257,7 @@
         "dropoff": "Nevins Street 323, Dunnavant, USA",
         "price": 24.63
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3919,9 +3267,7 @@
         "dropoff": "Kathleen Court 693, Harborton, USA",
         "price": 45.77
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3931,9 +3277,7 @@
         "dropoff": "Cumberland Walk 375, Wright, USA",
         "price": 81.25
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3943,9 +3287,7 @@
         "dropoff": "Miami Court 759, Chical, USA",
         "price": 75.19
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3955,9 +3297,7 @@
         "dropoff": "Nolans Lane 684, Stewart, USA",
         "price": 87.26
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3967,9 +3307,7 @@
         "dropoff": "Highland Avenue 130, Longoria, USA",
         "price": 88.95
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3979,9 +3317,7 @@
         "dropoff": "Everit Street 441, Chesterfield, USA",
         "price": 91.28
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -3991,9 +3327,7 @@
         "dropoff": "Clinton Street 257, Navarre, USA",
         "price": 87.58
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4003,9 +3337,7 @@
         "dropoff": "Midwood Street 70, Grenelefe, USA",
         "price": 68.48
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4015,9 +3347,7 @@
         "dropoff": "Highland Place 357, Haena, USA",
         "price": 91.06
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4027,9 +3357,7 @@
         "dropoff": "Batchelder Street 609, Romeville, USA",
         "price": 15.72
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4039,9 +3367,7 @@
         "dropoff": "Just Court 810, Woodruff, USA",
         "price": 69.78
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4051,9 +3377,7 @@
         "dropoff": "Jerome Street 45, Russellville, USA",
         "price": 14.06
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4063,9 +3387,7 @@
         "dropoff": "Hampton Place 221, Coaldale, USA",
         "price": 92.27
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4075,9 +3397,7 @@
         "dropoff": "Irving Street 520, Winston, USA",
         "price": 98.3
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4087,9 +3407,7 @@
         "dropoff": "Montieth Street 56, Abrams, USA",
         "price": 21.35
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4099,9 +3417,7 @@
         "dropoff": "Brightwater Avenue 330, Freelandville, USA",
         "price": 57.34
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4111,9 +3427,7 @@
         "dropoff": "Dodworth Street 683, Gerton, USA",
         "price": 10.43
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4123,9 +3437,7 @@
         "dropoff": "Stillwell Place 485, Orick, USA",
         "price": 49.55
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4135,9 +3447,7 @@
         "dropoff": "Willoughby Avenue 397, Stockwell, USA",
         "price": 67.41
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4147,9 +3457,7 @@
         "dropoff": "Wythe Place 381, Greenfields, USA",
         "price": 76.22
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4159,9 +3467,7 @@
         "dropoff": "Halleck Street 357, Websterville, USA",
         "price": 40.73
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4171,9 +3477,7 @@
         "dropoff": "Havemeyer Street 367, Southview, USA",
         "price": 42.63
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4183,9 +3487,7 @@
         "dropoff": "Norfolk Street 321, Oasis, USA",
         "price": 39.36
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4195,9 +3497,7 @@
         "dropoff": "Driggs Avenue 898, Aberdeen, USA",
         "price": 66.75
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4207,9 +3507,7 @@
         "dropoff": "Vanderveer Place 968, Bradenville, USA",
         "price": 19.23
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4219,9 +3517,7 @@
         "dropoff": "Navy Street 433, Escondida, USA",
         "price": 96.6
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4231,9 +3527,7 @@
         "dropoff": "Cleveland Street 687, Wauhillau, USA",
         "price": 70.22
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4243,9 +3537,7 @@
         "dropoff": "Bartlett Place 566, Matheny, USA",
         "price": 23.77
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4255,9 +3547,7 @@
         "dropoff": "Alabama Avenue 377, Ona, USA",
         "price": 90.77
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4267,9 +3557,7 @@
         "dropoff": "Oakland Place 858, Tibbie, USA",
         "price": 36.47
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4279,9 +3567,7 @@
         "dropoff": "Interborough Parkway 167, Osmond, USA",
         "price": 64.68
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4291,9 +3577,7 @@
         "dropoff": "Corbin Place 105, Baden, USA",
         "price": 13.95
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4303,9 +3587,7 @@
         "dropoff": "Butler Street 736, Walland, USA",
         "price": 96.79
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4315,9 +3597,7 @@
         "dropoff": "Celeste Court 812, Hamilton, USA",
         "price": 21.48
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4327,9 +3607,7 @@
         "dropoff": "Beard Street 613, Layhill, USA",
         "price": 64.57
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4339,9 +3617,7 @@
         "dropoff": "Rodney Street 553, Fairacres, USA",
         "price": 76.67
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4351,9 +3627,7 @@
         "dropoff": "Rost Place 887, Wyano, USA",
         "price": 54.52
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4363,9 +3637,7 @@
         "dropoff": "Buffalo Avenue 418, Glasgow, USA",
         "price": 55.33
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4375,9 +3647,7 @@
         "dropoff": "George Street 85, Whipholt, USA",
         "price": 85.85
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4387,9 +3657,7 @@
         "dropoff": "Baughman Place 410, Babb, USA",
         "price": 62.95
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4399,9 +3667,7 @@
         "dropoff": "Harrison Place 873, Gorst, USA",
         "price": 44.15
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4411,9 +3677,7 @@
         "dropoff": "Lewis Avenue 670, Tilleda, USA",
         "price": 17.7
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4423,9 +3687,7 @@
         "dropoff": "Thatford Avenue 394, Clarksburg, USA",
         "price": 57.19
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4435,9 +3697,7 @@
         "dropoff": "Schenck Avenue 194, Freeburn, USA",
         "price": 66.05
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4447,9 +3707,7 @@
         "dropoff": "Coffey Street 853, Falmouth, USA",
         "price": 74.2
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4459,9 +3717,7 @@
         "dropoff": "Chester Street 912, Bladensburg, USA",
         "price": 48.69
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4471,9 +3727,7 @@
         "dropoff": "Wolcott Street 54, Caroleen, USA",
         "price": 87.64
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4483,9 +3737,7 @@
         "dropoff": "Porter Avenue 680, Defiance, USA",
         "price": 52.79
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4495,9 +3747,7 @@
         "dropoff": "Montauk Court 591, Crumpler, USA",
         "price": 36.13
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4507,9 +3757,7 @@
         "dropoff": "Paerdegat Avenue 571, Sugartown, USA",
         "price": 53.14
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4519,9 +3767,7 @@
         "dropoff": "Lincoln Place 202, Fedora, USA",
         "price": 66.81
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4531,9 +3777,7 @@
         "dropoff": "Bedford Place 89, Felt, USA",
         "price": 94.91
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4543,9 +3787,7 @@
         "dropoff": "Manhattan Avenue 206, Worton, USA",
         "price": 40.94
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4555,9 +3797,7 @@
         "dropoff": "Essex Street 216, Dixonville, USA",
         "price": 36.3
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4567,9 +3807,7 @@
         "dropoff": "Livonia Avenue 615, Rosedale, USA",
         "price": 40.59
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4579,9 +3817,7 @@
         "dropoff": "Stewart Street 352, Cotopaxi, USA",
         "price": 24.16
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4591,9 +3827,7 @@
         "dropoff": "Tudor Terrace 424, Glenshaw, USA",
         "price": 36.65
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4603,9 +3837,7 @@
         "dropoff": "Butler Place 186, Venice, USA",
         "price": 60.12
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4615,9 +3847,7 @@
         "dropoff": "Stockton Street 352, Coventry, USA",
         "price": 17.37
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4627,9 +3857,7 @@
         "dropoff": "Ross Street 79, Neahkahnie, USA",
         "price": 13.79
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4639,9 +3867,7 @@
         "dropoff": "Vandervoort Avenue 405, Fairfield, USA",
         "price": 45.44
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4651,9 +3877,7 @@
         "dropoff": "Tampa Court 249, Duryea, USA",
         "price": 50.96
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4663,9 +3887,7 @@
         "dropoff": "Vine Street 513, Manila, USA",
         "price": 52.93
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4675,9 +3897,7 @@
         "dropoff": "Grant Avenue 278, Eastmont, USA",
         "price": 42.95
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4687,9 +3907,7 @@
         "dropoff": "Amersfort Place 102, Leroy, USA",
         "price": 68.81
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4699,9 +3917,7 @@
         "dropoff": "Grimes Road 466, Riegelwood, USA",
         "price": 46.83
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4711,9 +3927,7 @@
         "dropoff": "Matthews Court 410, Harleigh, USA",
         "price": 44.89
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4723,9 +3937,7 @@
         "dropoff": "Imlay Street 542, Woodlake, USA",
         "price": 99.99
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4735,9 +3947,7 @@
         "dropoff": "Knight Court 337, Davenport, USA",
         "price": 26.17
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4747,9 +3957,7 @@
         "dropoff": "Adams Street 577, Tilden, USA",
         "price": 56.77
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4759,9 +3967,7 @@
         "dropoff": "Cheever Place 18, Columbus, USA",
         "price": 46.08
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4771,9 +3977,7 @@
         "dropoff": "Eagle Street 241, Trinway, USA",
         "price": 74.69
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4783,9 +3987,7 @@
         "dropoff": "Coyle Street 355, Lydia, USA",
         "price": 97.05
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4795,9 +3997,7 @@
         "dropoff": "Mill Lane 741, Biehle, USA",
         "price": 92.53
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4807,9 +4007,7 @@
         "dropoff": "Terrace Place 711, Clarktown, USA",
         "price": 94.47
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4819,9 +4017,7 @@
         "dropoff": "Riverdale Avenue 862, Garberville, USA",
         "price": 28.86
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4831,9 +4027,7 @@
         "dropoff": "Pooles Lane 729, Gouglersville, USA",
         "price": 12.99
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4843,9 +4037,7 @@
         "dropoff": "Oliver Street 478, Ribera, USA",
         "price": 32.77
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4855,9 +4047,7 @@
         "dropoff": "Johnson Avenue 405, Hardyville, USA",
         "price": 63.17
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4867,9 +4057,7 @@
         "dropoff": "Hegeman Avenue 265, Slovan, USA",
         "price": 11.11
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4879,9 +4067,7 @@
         "dropoff": "Clara Street 592, Chaparrito, USA",
         "price": 83.71
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4891,9 +4077,7 @@
         "dropoff": "Berkeley Place 696, Titanic, USA",
         "price": 83.8
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4903,9 +4087,7 @@
         "dropoff": "Oriental Boulevard 185, Sterling, USA",
         "price": 48.08
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4915,9 +4097,7 @@
         "dropoff": "Creamer Street 954, Belgreen, USA",
         "price": 29.68
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4927,9 +4107,7 @@
         "dropoff": "Tillary Street 228, Roy, USA",
         "price": 90.54
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4939,9 +4117,7 @@
         "dropoff": "Waldane Court 912, Bannock, USA",
         "price": 68.18
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4951,9 +4127,7 @@
         "dropoff": "Greenpoint Avenue 268, Nipinnawasee, USA",
         "price": 86.49
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4963,9 +4137,7 @@
         "dropoff": "Taylor Street 67, Cresaptown, USA",
         "price": 95.02
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4975,9 +4147,7 @@
         "dropoff": "Hancock Street 601, Bluffview, USA",
         "price": 96.94
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4987,9 +4157,7 @@
         "dropoff": "Macdougal Street 785, Datil, USA",
         "price": 82.29
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -4999,9 +4167,7 @@
         "dropoff": "Luquer Street 929, Utting, USA",
         "price": 87.22
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5011,9 +4177,7 @@
         "dropoff": "Clermont Avenue 515, Mooresburg, USA",
         "price": 64.07
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5023,9 +4187,7 @@
         "dropoff": "Crescent Street 255, Henrietta, USA",
         "price": 90.72
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5035,9 +4197,7 @@
         "dropoff": "Prince Street 767, Dola, USA",
         "price": 70.83
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5047,9 +4207,7 @@
         "dropoff": "Neptune Court 137, Fruitdale, USA",
         "price": 23.54
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5059,9 +4217,7 @@
         "dropoff": "Jay Street 108, Logan, USA",
         "price": 66.41
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5071,9 +4227,7 @@
         "dropoff": "Atkins Avenue 261, Hendersonville, USA",
         "price": 20.55
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5083,9 +4237,7 @@
         "dropoff": "Turner Place 129, Wacissa, USA",
         "price": 32.75
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5095,9 +4247,7 @@
         "dropoff": "Throop Avenue 467, Darbydale, USA",
         "price": 36.35
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5107,9 +4257,7 @@
         "dropoff": "Oak Street 771, Makena, USA",
         "price": 68.76
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5119,9 +4267,7 @@
         "dropoff": "Friel Place 125, Martinsville, USA",
         "price": 93.71
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5131,9 +4277,7 @@
         "dropoff": "Bath Avenue 747, Falconaire, USA",
         "price": 42.58
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5143,9 +4287,7 @@
         "dropoff": "Menahan Street 314, Camas, USA",
         "price": 71.65
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5155,9 +4297,7 @@
         "dropoff": "Indiana Place 722, Cressey, USA",
         "price": 25.14
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5167,9 +4307,7 @@
         "dropoff": "Harden Street 770, Westwood, USA",
         "price": 54.66
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5179,9 +4317,7 @@
         "dropoff": "Court Street 943, Caledonia, USA",
         "price": 54.74
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5191,9 +4327,7 @@
         "dropoff": "Brighton Court 711, Holtville, USA",
         "price": 86.42
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5203,9 +4337,7 @@
         "dropoff": "Montana Place 617, Chamberino, USA",
         "price": 37.21
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5215,9 +4347,7 @@
         "dropoff": "Turnbull Avenue 245, Townsend, USA",
         "price": 94.78
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5227,9 +4357,7 @@
         "dropoff": "Strickland Avenue 489, Watrous, USA",
         "price": 95.83
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5239,9 +4367,7 @@
         "dropoff": "Herzl Street 763, Kraemer, USA",
         "price": 46.34
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5251,9 +4377,7 @@
         "dropoff": "Shale Street 4, Austinburg, USA",
         "price": 26.65
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5263,9 +4387,7 @@
         "dropoff": "Royce Place 435, Faxon, USA",
         "price": 33.26
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5275,9 +4397,7 @@
         "dropoff": "Rutherford Place 594, Fairhaven, USA",
         "price": 29.41
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5287,9 +4407,7 @@
         "dropoff": "Baycliff Terrace 447, Bartley, USA",
         "price": 13.91
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5299,9 +4417,7 @@
         "dropoff": "Clove Road 591, Zortman, USA",
         "price": 74.88
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5311,9 +4427,7 @@
         "dropoff": "Malbone Street 645, Blanco, USA",
         "price": 35.11
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5323,9 +4437,7 @@
         "dropoff": "Stuart Street 718, Dexter, USA",
         "price": 69.65
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5335,9 +4447,7 @@
         "dropoff": "Reeve Place 349, Gulf, USA",
         "price": 19.77
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5347,9 +4457,7 @@
         "dropoff": "Jaffray Street 286, Holcombe, USA",
         "price": 23.05
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5359,9 +4467,7 @@
         "dropoff": "Linwood Street 301, Chamizal, USA",
         "price": 25.2
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5371,9 +4477,7 @@
         "dropoff": "Brooklyn Avenue 241, Hoagland, USA",
         "price": 17.14
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5383,9 +4487,7 @@
         "dropoff": "Lawton Street 584, Alfarata, USA",
         "price": 58.69
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5395,9 +4497,7 @@
         "dropoff": "Ocean Avenue 645, Windsor, USA",
         "price": 30.25
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5407,9 +4507,7 @@
         "dropoff": "Monument Walk 270, Outlook, USA",
         "price": 23.91
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5419,9 +4517,7 @@
         "dropoff": "Kent Avenue 16, Topaz, USA",
         "price": 91.99
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5431,9 +4527,7 @@
         "dropoff": "Townsend Street 264, Ripley, USA",
         "price": 85.05
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5443,9 +4537,7 @@
         "dropoff": "Tapscott Street 999, Shasta, USA",
         "price": 61.76
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5455,9 +4547,7 @@
         "dropoff": "Stone Avenue 323, Jeff, USA",
         "price": 50.74
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5467,9 +4557,7 @@
         "dropoff": "Hornell Loop 211, Hessville, USA",
         "price": 56.25
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5479,9 +4567,7 @@
         "dropoff": "Fane Court 584, Springdale, USA",
         "price": 73.11
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5491,9 +4577,7 @@
         "dropoff": "Preston Court 133, Laurelton, USA",
         "price": 87.32
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5503,9 +4587,7 @@
         "dropoff": "Classon Avenue 767, Coldiron, USA",
         "price": 86.72
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5515,9 +4597,7 @@
         "dropoff": "Columbia Place 264, Belleview, USA",
         "price": 18.4
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5527,9 +4607,7 @@
         "dropoff": "Willow Place 333, Independence, USA",
         "price": 14.25
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5539,9 +4617,7 @@
         "dropoff": "Rugby Road 708, Condon, USA",
         "price": 68.72
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5551,9 +4627,7 @@
         "dropoff": "Radde Place 15, Hannasville, USA",
         "price": 70.44
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5563,9 +4637,7 @@
         "dropoff": "Seaview Avenue 265, Morningside, USA",
         "price": 15.96
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5575,9 +4647,7 @@
         "dropoff": "Lenox Road 523, Ronco, USA",
         "price": 63.38
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5587,9 +4657,7 @@
         "dropoff": "Johnson Street 42, Kidder, USA",
         "price": 10.38
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5599,9 +4667,7 @@
         "dropoff": "Wyckoff Avenue 985, Strong, USA",
         "price": 11.12
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5611,9 +4677,7 @@
         "dropoff": "Brevoort Place 394, Elliston, USA",
         "price": 84.27
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5623,9 +4687,7 @@
         "dropoff": "Victor Road 841, Efland, USA",
         "price": 17.44
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5635,9 +4697,7 @@
         "dropoff": "Ashford Street 836, Adamstown, USA",
         "price": 47.38
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5647,9 +4707,7 @@
         "dropoff": "Montague Terrace 824, Fresno, USA",
         "price": 85.97
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5659,9 +4717,7 @@
         "dropoff": "Tilden Avenue 616, Rew, USA",
         "price": 60.11
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5671,9 +4727,7 @@
         "dropoff": "Willmohr Street 337, Maybell, USA",
         "price": 56.8
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5683,9 +4737,7 @@
         "dropoff": "Overbaugh Place 779, Needmore, USA",
         "price": 72.88
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5695,9 +4747,7 @@
         "dropoff": "Loring Avenue 992, Berlin, USA",
         "price": 13.43
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5707,9 +4757,7 @@
         "dropoff": "Linden Boulevard 82, Devon, USA",
         "price": 44
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5719,9 +4767,7 @@
         "dropoff": "Ryerson Street 432, Summerset, USA",
         "price": 50.33
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5731,9 +4777,7 @@
         "dropoff": "Ivan Court 338, Elrama, USA",
         "price": 54.39
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5743,9 +4787,7 @@
         "dropoff": "Cobek Court 327, Levant, USA",
         "price": 65.94
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5755,9 +4797,7 @@
         "dropoff": "Bevy Court 194, Bethpage, USA",
         "price": 69.04
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5767,9 +4807,7 @@
         "dropoff": "Nassau Avenue 740, Stonybrook, USA",
         "price": 90.12
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5779,9 +4817,7 @@
         "dropoff": "Marconi Place 262, Caroline, USA",
         "price": 64.08
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5791,9 +4827,7 @@
         "dropoff": "Hawthorne Street 260, Lloyd, USA",
         "price": 73.79
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5803,9 +4837,7 @@
         "dropoff": "Dahlgreen Place 519, Shaft, USA",
         "price": 21.82
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5815,9 +4847,7 @@
         "dropoff": "Devoe Street 774, Dupuyer, USA",
         "price": 74.69
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5827,9 +4857,7 @@
         "dropoff": "Brighton Avenue 977, Hackneyville, USA",
         "price": 59.04
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5839,9 +4867,7 @@
         "dropoff": "Estate Road 55, Homestead, USA",
         "price": 35.88
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5851,9 +4877,7 @@
         "dropoff": "Cranberry Street 565, Emory, USA",
         "price": 34.93
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5863,9 +4887,7 @@
         "dropoff": "Bleecker Street 184, Wedgewood, USA",
         "price": 67.18
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5875,9 +4897,7 @@
         "dropoff": "Maujer Street 153, Vernon, USA",
         "price": 30.49
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5887,9 +4907,7 @@
         "dropoff": "Lawn Court 66, Linganore, USA",
         "price": 32.37
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5899,9 +4917,7 @@
         "dropoff": "Montauk Avenue 74, Blandburg, USA",
         "price": 99.09
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5911,9 +4927,7 @@
         "dropoff": "Bainbridge Street 762, Westphalia, USA",
         "price": 84.67
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5923,9 +4937,7 @@
         "dropoff": "Cox Place 547, Cannondale, USA",
         "price": 23.75
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5935,9 +4947,7 @@
         "dropoff": "Landis Court 83, Cade, USA",
         "price": 93.64
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5947,9 +4957,7 @@
         "dropoff": "Russell Street 402, Dahlen, USA",
         "price": 29.8
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5959,9 +4967,7 @@
         "dropoff": "Louise Terrace 101, Winchester, USA",
         "price": 17.12
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5971,9 +4977,7 @@
         "dropoff": "Krier Place 303, Williston, USA",
         "price": 80.19
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5983,9 +4987,7 @@
         "dropoff": "Bennet Court 132, Manitou, USA",
         "price": 82.91
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     },
     {
       "log_level": "info",
@@ -5995,8 +4997,6 @@
         "dropoff": "Thornton Street 50, Harrodsburg, USA",
         "price": 81.2
       },
-      "message": {
-        "event": "RideCreated"
-      }
+      "message": "{\"event\":\"RideCreated\"}"
     }
   ]
