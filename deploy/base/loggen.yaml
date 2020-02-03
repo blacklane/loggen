@@ -16,7 +16,8 @@ spec:
     metadata:
       labels:
         app: loggen
-      ad.datadoghq.com/loggen.logs: '[{"source":"kubernetes","service":"loggen"}]'
+      annotations:
+        ad.datadoghq.com/loggen.logs: '[{"source":"kubernetes","service":"loggen"}]'
     spec:
       dnsPolicy: Default
       containers:
