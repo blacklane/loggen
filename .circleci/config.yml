@@ -1,0 +1,20 @@
+version: 2.1
+orbs:
+  aws-cli: circleci/aws-cli@0.1.19
+  aws-ecr: circleci/aws-ecr@6.7.0
+
+jobs:
+  build:
+    docker:
+      - image: 815541116700.dkr.ecr.eu-central-1.amazonaws.com/kubernetes-deployment:v6
+    steps:
+      - checkout
+      - setup_remote_docker
+      - aws-cli/install
+      - aws-cli/setup:
+          aws-region: AWS_REGION
+          aws-access-key-id: AWS_ACCESS_KEY_ID      
+      - aws-ecr/ecr-login   
+      - run:
+          name: Blops Registry
+          command: blops registry init
