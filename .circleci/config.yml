@@ -17,4 +17,4 @@ jobs:
       - aws-ecr/ecr-login   
       - run:
           name: Build loggen
-          command: docker build -t loggen:${DRONE_COMMIT_SHA} .
+          command: docker build -t loggen:${CIRCLE_SHA1} .
