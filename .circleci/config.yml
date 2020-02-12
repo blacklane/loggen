@@ -31,7 +31,7 @@ jobs:
     executor: kubernetes-deployment
     steps:
       - attach_workspace:
-          at: ~/repo
+          at: ~/repo 
       - aws-ecr/ecr-login
 
 workflows:
