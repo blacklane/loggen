@@ -21,8 +21,8 @@ jobs:
           aws-access-key-id: AWS_ACCESS_KEY_ID
       - aws-ecr/ecr-login
       - run:
-        name: Build loggen
-        command: docker build -t loggen:${CIRCLE_SHA1} .
+          name: Build loggen
+          command: docker build -t loggen:${CIRCLE_SHA1} .
   deploy:
     executor: kubernetes-deployment
     steps:
@@ -30,6 +30,7 @@ jobs:
       - aws-ecr/ecr-login
 
 workflows:
+  version: 2
   build-deploy:
     jobs:
       - build:
