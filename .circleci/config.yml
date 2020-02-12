@@ -16,5 +16,5 @@ jobs:
           aws-access-key-id: AWS_ACCESS_KEY_ID      
       - aws-ecr/ecr-login   
       - run:
-          name: Blops Registry
-          command: blops registry init
+          name: Build loggen
+          command: docker build -t loggen:${DRONE_COMMIT_SHA} .
