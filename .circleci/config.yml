@@ -3,18 +3,42 @@ orbs:
   aws-cli: circleci/aws-cli@0.1.19
   aws-ecr: circleci/aws-ecr@6.7.0
 
-jobs:
-  build:
+executors:
+  kubernetes-deployment:
     docker:
       - image: 815541116700.dkr.ecr.eu-central-1.amazonaws.com/kubernetes-deployment:v6
+    working_directory: ~/repo
+
+jobs:
+  build:
+    executor: kubernetes-deployment
     steps:
       - checkout
       - setup_remote_docker
       - aws-cli/install
       - aws-cli/setup:
           aws-region: AWS_REGION
-          aws-access-key-id: AWS_ACCESS_KEY_ID      
-      - aws-ecr/ecr-login   
+          aws-access-key-id: AWS_ACCESS_KEY_ID
+      - aws-ecr/ecr-login
       - run:
-          name: Build loggen
-          command: docker build -t loggen:${CIRCLE_SHA1} .
+        name: Build loggen
+        command: docker build -t loggen:${CIRCLE_SHA1} .
+  deploy:
+    executor: kubernetes-deployment
+    steps:
+      - persist_to_workspace: ~/repo
+      - aws-ecr/ecr-login
+
+workflows:
+  build-deploy:
+    jobs:
+      - build:
+          filters:
+            branches:
+              only:
+                - master
+      - deploy:
+          filters:
+            branches:
+              only:
+                - master
