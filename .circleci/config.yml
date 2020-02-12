@@ -23,10 +23,15 @@ jobs:
       - run:
           name: Build loggen
           command: docker build -t loggen:${CIRCLE_SHA1} .
+      - persist_to_workspace:
+          root: workspace
+          paths:
+            - echo-output
   deploy:
     executor: kubernetes-deployment
     steps:
-      - persist_to_workspace: ~/repo
+      - attach_workspace:
+          at: ~/repo
       - aws-ecr/ecr-login
 
 workflows:
@@ -39,6 +44,8 @@ workflows:
               only:
                 - master
       - deploy:
+          requires:
+            - build
           filters:
             branches:
               only:
