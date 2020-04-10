@@ -3,7 +3,7 @@
       "log_level": "info",
       "event": "request_finished",
       "body": {
-        "driver_name": "Jimenez Gibson",
+        "driver_name": "Edwina Gibson",
         "company": "Furnafix"
       },
       "message": {
@@ -14,7 +14,7 @@
       "log_level": "info",
       "event": "request_finished",
       "body": {
-        "driver_name": "Edwina Page",
+        "driver_name": "Jimenez Page",
         "company": "Geekosis"
       },
       "message": {
