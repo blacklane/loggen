@@ -5,11 +5,11 @@ pipeline:
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
     images:
-      - 721041513556.dkr.ecr.eu-central-1.amazonaws.com/kubernetes-deployment:v4
+      - 721041513556.dkr.ecr.eu-central-1.amazonaws.com/kubernetes-deployment:v4-eks
       - 721041513556.dkr.ecr.eu-central-1.amazonaws.com/drone-plugin-ecr-tagger-pusher:v3
 
   registry:
-    image: 721041513556.dkr.ecr.eu-central-1.amazonaws.com/kubernetes-deployment:v4
+    image: 721041513556.dkr.ecr.eu-central-1.amazonaws.com/kubernetes-deployment:v4-eks
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
     commands:
@@ -39,7 +39,7 @@ pipeline:
   deploy_production:
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
-    image: 721041513556.dkr.ecr.eu-central-1.amazonaws.com/kubernetes-deployment:v4
+    image: 721041513556.dkr.ecr.eu-central-1.amazonaws.com/kubernetes-deployment:v4-eks
     commands:
       - blops deploy production
     when:
