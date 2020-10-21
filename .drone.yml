@@ -24,7 +24,7 @@ pipeline:
       - docker build -t loggen:${DRONE_COMMIT_SHA} .
     when:
       event: push
-      branch: master
+      branch: main
 
   push:
     image: 721041513556.dkr.ecr.eu-central-1.amazonaws.com/drone-plugin-ecr-tagger-pusher:v3
@@ -34,7 +34,7 @@ pipeline:
     image_name: loggen:${DRONE_COMMIT_SHA}
     when:
       event: push
-      branch: master
+      branch: main
 
   deploy_production:
     volumes:
@@ -44,6 +44,6 @@ pipeline:
       - blops deploy production
     when:
       event: push
-      branch: master
+      branch: main
 
-branches: [ master ]
+branches: [ main ]
